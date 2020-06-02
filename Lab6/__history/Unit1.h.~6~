@@ -1,0 +1,52 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.ComCtrls.hpp>
+#include <Vcl.Grids.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TTreeView *TreeView;
+	TLabel *LabelPrint;
+	TButton *ButtonDirect;
+	TButton *ButtonAscending;
+	TButton *ButtonReverse;
+	TMemo *Memo;
+	TEdit *EditAddKey;
+	TEdit *EditAddName;
+	TButton *AddTree;
+	TButton *ButtonFindDeep;
+	TButton *ButtonBalance;
+	TEdit *EditFindOrDelete;
+	TButton *ButtonFind;
+	TButton *ButtonDelete;
+	TEdit *EditDeep;
+	TListBox *List;
+	TButton *AddArray;
+	TButton *ButtonAdd;
+	void __fastcall FormClose(TObject *Sender, TCloseAction &Action);
+	void __fastcall ButtonDirectClick(TObject *Sender);
+	void __fastcall ButtonAscendingClick(TObject *Sender);
+	void __fastcall ButtonReverseClick(TObject *Sender);
+	void __fastcall ButtonFindClick(TObject *Sender);
+	void __fastcall ButtonDeleteClick(TObject *Sender);
+	void __fastcall ButtonBalanceClick(TObject *Sender);
+	void __fastcall AddTreeClick(TObject *Sender);
+	void __fastcall ButtonNewRowClick(TObject *Sender);
+	void __fastcall AddArrayClick(TObject *Sender);
+	void __fastcall ButtonAddClick(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

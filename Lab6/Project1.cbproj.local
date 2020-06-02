@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.212,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\User\Desktop\Unit1.cpp=C:\Users\User\Desktop\MyApp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\User\Desktop\Unit1.cpp=C:\Users\User\Desktop\Tree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,F:\6Lab\MyApp.cpp=F:\6Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\User\Desktop\Unit1.h=C:\Users\User\Desktop\MyApp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\User\Desktop\Unit1.h=C:\Users\User\Desktop\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,C:\Users\User\Desktop\Tree.cpp=D:\2_term_OAIP\6Lab\Tree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,C:\Users\User\Desktop\MyApp.h=D:\2_term_OAIP\6Lab\MyApp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,C:\Users\User\Desktop\Tree.h=D:\2_term_OAIP\6Lab\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\User\Desktop\Unit1.dfm=C:\Users\User\Desktop\MyApp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,F:\6Lab\MyApp.dfm=F:\6Lab\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,F:\6Lab\MyApp.h=F:\6Lab\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,C:\Users\User\Desktop\Project1PCH1.h=D:\2_term_OAIP\6Lab\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,C:\Users\User\Desktop\File1.h=C:\Users\User\Desktop\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=C:\Users\User\Desktop\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,C:\Users\User\Desktop\MyApp.cpp=D:\2_term_OAIP\6Lab\MyApp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,C:\Users\User\Desktop\Project1.cbproj=D:\2_term_OAIP\6Lab\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,C:\Users\User\Desktop\MyApp.dfm=D:\2_term_OAIP\6Lab\MyApp.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
